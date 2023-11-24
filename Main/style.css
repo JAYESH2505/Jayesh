@@ -1,15 +1,33 @@
+/* Main CSS */
+
+html{
+    background-color: rgb(53,53,53);
+    background-image: url(https://images.pexels.com/photos/1809644/pexels-photo-1809644.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: 100%;
+}
+
+
+
 .Profile_Pic{
     border-radius: 50%;
 }
 
 
 #Introduction{
-    color: aqua;
+    color:wheat;
     font-style: italic;
     font-size: xx-large;
+    
 }
 
 .Main{
     font-style: italic;
     font-size: xx-large;
+    color: white;
 }
+
+
+
+
+
+
