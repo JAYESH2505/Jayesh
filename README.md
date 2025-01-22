@@ -1,5 +1,7 @@
 # Professional Portfolio Website
 
+This Repository Is Used To Initialize My Portfolio Website And Make It Public
+
 A modern, responsive portfolio website showcasing my skills, projects, and experience in Gaming, Machine Learning, Deep Learning, and Trading.
 
 ## Features
@@ -48,8 +50,10 @@ To customize this portfolio:
 
 ```
 WebSite/
-├── index.html          # Main HTML file
+├── index.html         # Main HTML file
 ├── style.css          # Stylesheet
 ├── script.js          # JavaScript functionality
 ├── Images/            # Project and profile images
+├── config.js          # Api Keys
+├── .gitignore         # Git funtionality
 └── README.md          # Documentation
