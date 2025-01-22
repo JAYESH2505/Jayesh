@@ -7,6 +7,7 @@ console.log("EmailJS initialized successfully.");
 // Typing effect for the "I'm Part" text
 const roles = ["Gamer", "Developer", "Deep Learning Engineer"];
 const typingElement = document.querySelector('.typing');
+console.log("Typing element:", typingElement); // Log the typing element to check if it's selected
 let roleIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
